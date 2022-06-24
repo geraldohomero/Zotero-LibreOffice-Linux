@@ -1,13 +1,17 @@
 # Zotero + LibreOffice (Linux)
 
-Make sure you have a JRE installed. In LO, go to Tools>Options>Advanced. Make sure you have the "Use Java runtime environment" box checked, and there is a JRE installed. If there isn't one (as was the case in my fresh Linux install), open terminal and install the latest JRE: 
 
+- Make sure you have a JRE installed. In LO, go to Tools>Options>Advanced. Make sure you have the "Use Java runtime environment" box checked, and there is a JRE installed. If there isn't one (as was the case in my fresh Linux install), open terminal and install the latest JRE: 
 
 `sudo apt install openjdk-8-jre`
 
-Check your installation worked with java -version. Restart LibreOffice
+- Check if your installation worked with (in the terminal)
 
-Next, make sure LibreOffice has java-common installed:
+`java -version` 
+
+- Restart LibreOffice
+
+- Next, make sure LibreOffice has java-common installed:
 
 `sudo apt-get install libreoffice-java-common`
 
