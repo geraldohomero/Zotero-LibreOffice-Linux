@@ -33,6 +33,6 @@ Credits to [Kameid](https://www.reddit.com/r/linux4noobs/comments/i6skza/install
 
 
 
-If you need, there's the Zotero_OpenOffice_Integration.oxt for download
+If you need, there's the Zotero_OpenOffice_Integration.oxt for [DOWNLOAD](https://github.com/geraldohomero/Zotero-LibreOffice-Linux/releases/tag/Zotero_Integration)
 
 [Before proceeding read the official Zotero's post](https://www.zotero.org/support/word_processor_plugin_troubleshooting)
