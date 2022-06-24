@@ -1,4 +1,4 @@
-# Zotero + LibreOffice
+# Zotero + LibreOffice (Linux)
 
 `sudo apt install openjdk-8-jre`
 
