@@ -18,9 +18,7 @@
 
 - Restart LibreOffice
 
-- Next, make sure LibreOffice has java-common installed:
-
-- If not, run:
+- Next, install libreoffice-java-common:
 
 `sudo apt-get install libreoffice-java-common`
 
