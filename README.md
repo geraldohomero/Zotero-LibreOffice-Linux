@@ -9,7 +9,7 @@
 
 ![image](https://user-images.githubusercontent.com/70844369/175447639-41eaf455-1615-4306-9fc3-a8a9300403fa.png)
 
-- Check if your installation worked with (in the terminal)
+- Check if your installation worked. Run:
 
 `java -version` 
 
