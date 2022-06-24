@@ -1,4 +1,4 @@
-# Zotero + LibreOffice (Linux)
+# Zotero + LibreOffice (Linux) - Credits to [Kameid](https://www.reddit.com/r/linux4noobs/comments/i6skza/installing_zotero_and_using_it_with_libreoffice/)
 
 ### Trying to solve the problem where the Zotero plugin doesn't work properly in the Linux LibreOffice Writer:
 
