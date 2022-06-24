@@ -2,6 +2,7 @@
 
 ### Trying to solve the problem where the Zotero plugin doesn't work properly in the Linux LibreOffice Writer:
 
+- **First: Uninstall Zotero **
 
 - Make sure you have a **Java Runtime Environment** installed. In LibreOffice, go to **Tools>Options>Advanced**. Make sure you have the "Use Java runtime environment" box checked, and there is a JRE installed. **If there isn't one**, open terminal and **install the latest JRE**: 
 
@@ -21,6 +22,8 @@
 - Next, install libreoffice-java-common:
 
 `sudo apt-get install libreoffice-java-common`
+
+- Install Zotero
 
 It should work fine now:
 
