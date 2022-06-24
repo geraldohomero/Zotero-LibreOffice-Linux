@@ -15,6 +15,9 @@
 
 - Next, make sure LibreOffice has java-common installed:
 
+![image](https://user-images.githubusercontent.com/70844369/175447639-41eaf455-1615-4306-9fc3-a8a9300403fa.png)
+
+
 `sudo apt-get install libreoffice-java-common`
 
 Credits to [Kameid](https://www.reddit.com/r/linux4noobs/comments/i6skza/installing_zotero_and_using_it_with_libreoffice/)
