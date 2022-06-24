@@ -1,5 +1,5 @@
 # Zotero + LibreOffice
 
-'sudo apt install openjdk-8-jre'
+`sudo apt install openjdk-8-jre`
 
-'sudo apt-get install libreoffice-java-common'
+`sudo apt-get install libreoffice-java-common`
