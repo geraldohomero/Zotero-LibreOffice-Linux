@@ -3,13 +3,16 @@
 ### Trying to solve the problem where the Zotero plugin doesn't work properly in the Linux LibreOffice Writer:
 
 
-- Make sure you have a Java Runtime Environment installed (JRE). In LibreOffice, go to Tools>Options>Advanced. Make sure you have the "Use Java runtime environment" box checked, and there is a JRE installed. If there isn't one (as was the case in my fresh Linux install), open terminal and install the latest JRE: 
+- Make sure you have a **Java Runtime Environment** installed. In LibreOffice, go to **Tools>Options>Advanced**. Make sure you have the "Use Java runtime environment" box checked, and there is a JRE installed. **If there isn't one**, open terminal and **install the latest JRE**: 
 
 `sudo apt install openjdk-8-jre`
 
 - Check if your installation worked with (in the terminal)
 
 `java -version` 
+
+![image](https://user-images.githubusercontent.com/70844369/175448412-815af3e7-1f28-4c49-8644-344af88e6c48.png)
+
 
 - Restart LibreOffice
 
