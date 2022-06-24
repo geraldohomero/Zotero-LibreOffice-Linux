@@ -11,7 +11,7 @@
 
 `java -version` 
 
-![image](https://user-images.githubusercontent.com/70844369/175448412-815af3e7-1f28-4c49-8644-344af88e6c48.png)
+![image](https://user-images.githubusercontent.com/70844369/175448591-d2b9d844-aa40-4bb2-a8a8-e4ed587b08a9.png)
 
 
 - Restart LibreOffice
