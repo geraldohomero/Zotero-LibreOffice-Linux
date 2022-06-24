@@ -20,4 +20,8 @@
 
 `sudo apt-get install libreoffice-java-common`
 
+It should work fine now:
+
+![image](https://user-images.githubusercontent.com/70844369/175447878-09b925d0-8e78-493c-8878-3da98fe551af.png)
+
 Credits to [Kameid](https://www.reddit.com/r/linux4noobs/comments/i6skza/installing_zotero_and_using_it_with_libreoffice/)
