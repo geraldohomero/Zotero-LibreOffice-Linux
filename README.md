@@ -32,4 +32,7 @@ It should work fine now:
 Credits to [Kameid](https://www.reddit.com/r/linux4noobs/comments/i6skza/installing_zotero_and_using_it_with_libreoffice/)
 
 
+
 If you need, there's the Zotero_OpenOffice_Integration.oxt for download
+
+[Before proceeding read the official Zotero's post](https://www.zotero.org/support/word_processor_plugin_troubleshooting)
