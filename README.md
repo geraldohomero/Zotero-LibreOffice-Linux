@@ -23,7 +23,7 @@
 
 `sudo apt-get install libreoffice-java-common`
 
-- Install Zotero
+- **Install Zotero**
 
 It should work fine now:
 
