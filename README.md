@@ -21,7 +21,7 @@
 
 **5. install libreoffice-java-common:**
 
-`sudo apt-get install libreoffice-java-common`
+`sudo apt install libreoffice-java-common`
 
 **6. Install Zotero**
 
