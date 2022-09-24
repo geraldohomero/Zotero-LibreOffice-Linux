@@ -6,7 +6,7 @@ Guide:
 
 **1. Uninstall Zotero**
 
-**2. Make sure you have a Java Runtime Environment installed**. In LibreOffice, go to **Tools>Options>Advanced**. Make sure you have the "Use Java runtime environment" box checked, and there is a JRE installed. **If there isn't one**, open terminal and **install the latest JRE**: 
+**2. Make sure you have a Java Runtime Environment installed**. In LibreOffice, go to **Tools>Options>Advanced**. Make sure you have the "Use Java runtime environment" box checked, and if there is a JRE installed. **If there isn't one**, open terminal and **install the latest JRE**: 
 
 `sudo apt install openjdk-8-jre`
 
