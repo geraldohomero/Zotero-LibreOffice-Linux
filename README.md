@@ -18,7 +18,6 @@ Guide:
 
 ![image](https://user-images.githubusercontent.com/70844369/175448591-d2b9d844-aa40-4bb2-a8a8-e4ed587b08a9.png)
 
-
 **4. Restart LibreOffice**
 
 **5. install libreoffice-java-common:**
