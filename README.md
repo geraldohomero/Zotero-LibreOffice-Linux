@@ -10,7 +10,7 @@ Guide:
 
 `sudo apt install openjdk-8-jre`
 
-![image](https://user-images.githubusercontent.com/70844369/175447639-41eaf455-1615-4306-9fc3-a8a9300403fa.png)
+![image](https://user-images.githubusercontent.com/70844369/175447639-41eaf455-1615-4306-9fc3-a8a9300403fa.png#vitrinedev)
 
 **3. Check if your installation worked. Run:**
 
