@@ -2,7 +2,7 @@
 
 ### Trying to solve the problem where the Zotero plugin doesn't work properly in the Linux LibreOffice Writer:
 
-Guide:
+## Guide:
 
 **1. Uninstall Zotero**
 
