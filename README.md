@@ -42,3 +42,11 @@ It should work fine now:
 Credits to [Kameid](https://www.reddit.com/r/linux4noobs/comments/i6skza/installing_zotero_and_using_it_with_libreoffice/)
 
 [Zotero's post](https://www.zotero.org/support/word_processor_plugin_troubleshooting) about the troubleshooting process for the word processor plugin.
+
+**Bonus in case it didn't worl**
+
+1. Navigate to the Zotero application files:
+ - Go to the directory where Zotero is installed and open `extensions/zoteroOpenOfficeIntegration@zotero.org/install` (Zotero 6) or `integration/libreoffice` (Zotero 7)
+2. Double-click the Zotero_OpenOffice_Integration.oxt file to install it. Alternatively, go to Tools → Extension Manager in LibreOffice, click Add, and select the .oxt from the above folder.
+
+ [Zotero's post](https://www.zotero.org/support/word_processor_plugin_manual_installation)
