@@ -49,6 +49,9 @@ Credits to [Kameid](https://www.reddit.com/r/linux4noobs/comments/i6skza/install
 
 1. Navigate to the Zotero application files:
  - Go to the directory where Zotero is installed and open `extensions/zoteroOpenOfficeIntegration@zotero.org/install` (Zotero 6) or `integration/libreoffice` (Zotero 7)
+ - For Flatpak: `~/.local/share/flatpak/app/org.zotero.Zotero/x86_64/stable/.../files/share/zotero/extensions/zoteroOpenOfficeIntegration@zotero.org/install`
+ - Or search for `Zotero_OpenOffice_Integration.oxt` on your file manager (Nautilus, Dolphin...)
+   ![image](https://github.com/geraldohomero/Zotero-LibreOffice-Linux/assets/70844369/e962db11-271d-4091-ba88-81692de66710)
 2. Double-click the Zotero_OpenOffice_Integration.oxt file to install it. Alternatively, go to Tools → Extension Manager in LibreOffice, click Add, and select the .oxt from the above folder.
 
  [Zotero's post](https://www.zotero.org/support/word_processor_plugin_manual_installation)
